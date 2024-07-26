@@ -33,7 +33,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Let's build something epic together!
+            Let&apos;s build something epic together!
           </p>
 
         </motion.div>
