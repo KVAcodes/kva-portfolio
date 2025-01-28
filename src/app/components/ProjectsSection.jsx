@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/projects/Nostalgiwrap.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/KVAcodes/Nostalgiwrap-too",
-    previewUrl: "https://nostalgiwrap-cce5d36cb37f.herokuapp.com/",
+    previewUrl: "https://www.youtube.com/watch?v=X9H0OGu4dh0",
   },
   {
     id: 4,
