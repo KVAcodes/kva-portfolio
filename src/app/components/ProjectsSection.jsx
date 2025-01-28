@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "The Slope Deflector",
-    description: "An entirely client-side web application that analysis continuous beams(fully responsive).",
+    description: "An entirely client-side web application that analyses continuous beams(fully responsive).",
     image: "/images/projects/slopeDef.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/KVAcodes/The-Slope-Deflector",
